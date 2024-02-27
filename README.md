@@ -1,3 +1,3 @@
-# LabSensei
+# Black Peark Racing Team (KMUTT, Thailand)
 
-The source for LabSensei homepage.
+The source for Black Pearl homepage.
